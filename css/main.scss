@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
 
@@ -28,6 +27,12 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+$thin: 200;
+
+$secondary-color: #235789;
+$tertiary-color: #ED1C24;
+
+
 
 
 // Use media queries like this:
@@ -47,7 +52,10 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "materialize",
         "base",
         "layout",
         "syntax-highlighting"
 ;
+
+
