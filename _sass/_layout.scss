@@ -31,6 +31,18 @@ main {
   }
 }
 
+.card {
+  .card-action {
+    a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
+      color: $tertiary-color;
+ 
+      &:hover {
+        color: $primary-color;
+      }
+    }
+  }
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
