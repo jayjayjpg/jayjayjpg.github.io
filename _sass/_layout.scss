@@ -6,6 +6,7 @@ body {
     flex-direction: column;
 }
 
+
 main {
     flex: 1 0 auto;
 }
@@ -16,6 +17,11 @@ main {
             min-height: auto;
     }
 }
+
+footer {
+  margin-top: 0 !important;
+}
+
 .nav-wrapper {
   .material-icons {
     &.overlap-icon {
@@ -64,5 +70,6 @@ main {
 
 
 .padded {
-  padding: 8em;
+  padding-top: 8em;
+  padding-bottom: 8em;
 }
