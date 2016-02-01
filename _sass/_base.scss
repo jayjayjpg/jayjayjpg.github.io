@@ -7,8 +7,23 @@ h1 {
 h2 {
   font-size: 2.2em;
 }
+/* Mixins */
+@mixin vendor($attr, $val){
+  -webkit-#{$attr}: $val;
+  -moz-#{$attr}: $val;
+  -ms-#{$attr}: $val;
+  -o-#{$attr}: $val;
+  #{$attr}: $val;
+}
+
 
 /* Colors */
+.primary-color {
+  color: $primary-color;
+}
+.primary-bg {
+  background-color: $primary-color;
+}
 .secondary-color {
   color: $secondary-color;
 }

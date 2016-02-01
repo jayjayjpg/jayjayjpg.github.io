@@ -9,6 +9,7 @@ body {
 main {
     flex: 1 0 auto;
 }
+
 /* IE10+ fix to circumvent poorly supported flexbox features */
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
     body, main {
@@ -37,6 +38,7 @@ main {
   color: rgba(255,255,255,.9);
 }
   .parallax-container .section {
+    position: relative;
     width: 100%;
   }
 
@@ -60,4 +62,16 @@ main {
 /* Text helpers */
 .uppercase {
     text-transform: uppercase;
+}
+/* Background helpers */
+.veil {
+  opacity: 0.75;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.blur {
+  @include vendor('filter', blur(2px));
 }
