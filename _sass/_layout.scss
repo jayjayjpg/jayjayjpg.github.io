@@ -61,3 +61,15 @@ main {
 .uppercase {
     text-transform: uppercase;
 }
+/* Background helpers */
+.veil {
+  opacity: 0.75;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.blur {
+  @include vendor('filter', blur(2px));
+}
