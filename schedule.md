@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Schedule
 permalink: /schedule/
 ---
 <section class="blue lighten-3">
