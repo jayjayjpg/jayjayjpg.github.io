@@ -55,6 +55,12 @@ footer {
   }
 }
 
+.section.benefits {
+  h3 {
+    font-size: 1.6em;
+  }
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
@@ -86,6 +92,11 @@ footer {
 /* Text helpers */
 .uppercase {
     text-transform: uppercase;
+}
+.text-shadow {
+  &.primary-color {
+    text-shadow: 2px 2px 3px $secondary-color;
+  }
 }
 /* Layout Helper */
 @for $i from 0 through 12 {
@@ -124,3 +135,12 @@ footer {
 .vertical-divider {
     border-right: 1px solid $text-color;
   }
+.img-bubble {
+  overflow: hidden;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  border: 2px solid $secondary-color;
+  margin: 1em auto;
+}
