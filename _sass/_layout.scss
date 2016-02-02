@@ -140,6 +140,15 @@ footer {
   .vertical-divider {
     border-right: 1px solid $text-color;
   }
+  .center-line:after {
+    content:"";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    border-left: 1px solid $text-color;
+  }
 }
 
 @media #{$small-and-down} {
@@ -154,16 +163,6 @@ footer {
 
 #address-headline {
   border: 1px solid $text-color;
-}
-
-.center-line:after {
-  content:"";
-  position: absolute;
-  z-index: -1;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  border-left: 1px solid $text-color;
 }
 
 
