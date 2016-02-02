@@ -67,6 +67,19 @@ footer {
       text-shadow: 2px 2px 3px $secondary-color;
     }
   }
+  .card-image {
+    max-height: 200px;
+  }
+  .card-content {
+    min-height: 140px;
+  }
+  .placeholder-img {
+    padding: 25% 0;
+    text-align: center;
+    display: block;
+    width: 100%;
+    min-height: 200px;
+  }
 }
 
 .team {

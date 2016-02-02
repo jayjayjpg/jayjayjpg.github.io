@@ -15,7 +15,7 @@ permalink: /team/
     </div>
   </div>
 </section>
-<section class="blue lighten-3 team">
+<section class="blue lighten-3">
   <div class="container">
     <div class="row">
       <!-- team member card -->
