@@ -47,6 +47,18 @@ footer {
       }
     }
   }
+  .card-title {
+    &.primary-color {
+      color: $primary-color;
+      text-shadow: 2px 2px 3px $secondary-color;
+    }
+  }
+}
+
+.section.benefits {
+  h3 {
+    font-size: 1.6em;
+  }
 }
 
 .parallax-container {
@@ -81,7 +93,26 @@ footer {
 .uppercase {
   text-transform: uppercase;
 }
-
+.text-shadow {
+  &.primary-color {
+    text-shadow: 2px 2px 3px $secondary-color;
+  }
+}
+/* Layout Helper */
+@for $i from 0 through 12 {
+  .mt-#{$i} { 
+    margin-top: $i * 1.5em; 
+  }
+  .mb-#{$i} { 
+    margin-bottom: $i * 1.5em; 
+  }
+  .pt-#{$i} { 
+    padding-top: $i * 1.5em; 
+  }
+  .pb-#{$i} { 
+    padding-bottom: $i * 1.5em; 
+  }
+}
 .padded {
   padding-top: 6em;
   padding-bottom: 6em;
@@ -108,7 +139,6 @@ footer {
 @media #{$medium-and-up} {
   .vertical-divider {
     border-right: 1px solid $text-color;
-
   }
 }
 
@@ -155,4 +185,15 @@ footer {
 
 #google-logo {
   max-height: 70px;
+}
+
+
+.img-bubble {
+  overflow: hidden;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  border: 2px solid $secondary-color;
+  margin: 1em auto;
 }
