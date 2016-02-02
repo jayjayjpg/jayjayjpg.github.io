@@ -70,7 +70,7 @@ permalink: /programme/
               <span class="card-title primary-color">Got any questions? Contact us</span>
             </div>
             <div class="card-content">
-              <p class="white-text">We're happy to help you out if you should have any questions regarding the meeting. 
+              <p class="white-text">We're happy to help you out if you should have any questions regarding the workshop. 
               Just pop us a message!</p>
             </div>
             <div class="card-action">
@@ -80,6 +80,5 @@ permalink: /programme/
       </div>
     </div>
     </section>
-    <hr />
   </article>
 </section>

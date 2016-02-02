@@ -11,6 +11,18 @@ h2 {
   font-size: 1.8em;
   line-height: 2.1em;
 }
+@media only screen and (max-width : 600px) {
+  h1 {
+    font-size: 2.0em;
+  }
+  h2 {
+    font-size: 1.6em;
+  }
+  .subheader {
+    font-size: 1.4em;
+    line-height: 1.8em;
+  }
+}
 /* Mixins */
 @mixin vendor($attr, $val){
   -webkit-#{$attr}: $val;
