@@ -79,13 +79,17 @@ footer {
 /* Helpers */
 /* Text helpers */
 .uppercase {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .padded {
-          padding-top: 8em;
-          padding-bottom: 8em;
-        }
+  padding-top: 6em;
+  padding-bottom: 6em;
+}
+
+.card-content {
+  //min-height: 120px;
+}
 
 /* Background helpers */
 .veil {
@@ -101,6 +105,54 @@ footer {
 }
 
 /* Eye candy */
-.vertical-divider {
+@media #{$medium-and-up} {
+  .vertical-divider {
     border-right: 1px solid $text-color;
+
   }
+}
+
+@media #{$small-and-down} {
+  .vertical-divider {
+    padding-bottom: 2em !important;
+  }
+}
+
+#address {
+  position: relative;
+}
+
+#address-headline {
+  border: 1px solid $text-color;
+}
+
+.center-line:after {
+  content:"";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  border-left: 1px solid $text-color;
+}
+
+
+/* Make Google maps embed responsive */
+
+.google-maps {
+  position: relative;
+  padding-bottom: 75%; // This is the aspect ratio
+  height: 0;
+  overflow: hidden;
+}
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+#google-logo {
+  max-height: 70px;
+}
