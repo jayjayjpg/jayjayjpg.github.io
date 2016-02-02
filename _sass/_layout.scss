@@ -31,16 +31,13 @@ footer {
   padding-right: 5px;
 }
 
+
 .nav-wrapper {
-  .material-icons {
-    &.overlap-icon {
-      font-size: 3rem;
-      position: absolute;
-      bottom: $gutter-width / 3;
-      right: $gutter-width * 1.5;
-    }
-    &.underlap-icon {
-      font-size: 4rem;
+  .brand-logo {
+    img {
+      max-height: 40px;
+      width: auto;
+      margin-top: 0.3em;
     }
   }
   li.active{
