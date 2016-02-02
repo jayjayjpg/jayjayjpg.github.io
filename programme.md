@@ -28,22 +28,22 @@ permalink: /programme/
         <h2>Training Dates</h2>
           <div class="row">
             <div class="col s12 m6">
-              Wednesday, February 24th <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
+              Wednesday, February 24th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
             </div>
           </div>
           <div class="row">
             <div class="col s12 m6">
-              Thursday, February 25th <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
+              Thursday, February 25th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
             </div>
           </div>
           <div class="row">
             <div class="col s12 m6">
-              Friday, February 26th <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
+              Friday, February 26th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
             </div>
           </div>
           <div class="row">
             <div class="col s12 m6">
-              Saturday, February 27th <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
+              Saturday, February 27th, 10:00 - 13:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
             </div>
           </div>
         </ul>
@@ -55,10 +55,12 @@ permalink: /programme/
       <div class="col s12 m8">
         <h2>Training Schedule</h2>
         <ul>
+          <li class="mt-1">Hello and Welcome</li>
           <li class="mt-1">Introduction to HTML &amp; CSS</li>
           <li class="mt-1">Introduction to Javascript and how to get started coding on your laptop</li>
           <li class="mt-1">Getting familiar with <a href="http://d3js.org/" target="dthree">D3.js</a> - a beautful tool to visualize data</li>
           <li class="mt-1">Data visualization in Action with <a href="http://www.biojs.net" target="biojs">BioJS</a></li>
+          <li class="mt-1">Pizza &amp; drinks</li>
         </ul>
       </div>
       <div class="col s12 m4">
