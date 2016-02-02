@@ -83,6 +83,10 @@ footer {
 }
 
 @media only screen and (max-width : 600px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 20%;
+  }
   #index-banner .section {
     top: 0;
   }
@@ -133,6 +137,9 @@ footer {
 }
 .blur {
   @include vendor('filter', blur(2px));
+}
+.oversize {
+  width: 120%;
 }
 
 /* Eye candy */
