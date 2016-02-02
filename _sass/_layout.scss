@@ -47,6 +47,12 @@ footer {
       }
     }
   }
+  .card-title {
+    &.primary-color {
+      color: $primary-color;
+      text-shadow: 2px 2px 3px $secondary-color;
+    }
+  }
 }
 
 .parallax-container {
@@ -81,7 +87,21 @@ footer {
 .uppercase {
     text-transform: uppercase;
 }
-
+/* Layout Helper */
+@for $i from 0 through 12 {
+  .mt-#{$i} { 
+    margin-top: $i * 1.5em; 
+  }
+  .mb-#{$i} { 
+    margin-bottom: $i * 1.5em; 
+  }
+  .pt-#{$i} { 
+    padding-top: $i * 1.5em; 
+  }
+  .pb-#{$i} { 
+    padding-bottom: $i * 1.5em; 
+  }
+}
 .padded {
           padding-top: 8em;
           padding-bottom: 8em;
