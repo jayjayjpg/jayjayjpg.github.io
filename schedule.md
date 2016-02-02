@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: /programme/
+permalink: /schedule/
 ---
 <section class="blue lighten-3">
   <div class="container">
     <div class="row">
       <div class="uppercase col s12 white-text">
-          <h1>Event Programme 2016</h1>
+          <h1>Event Schedule 2016</h1>
       </div>
     </div>
   </div>
