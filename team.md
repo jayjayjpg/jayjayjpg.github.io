@@ -19,7 +19,7 @@ permalink: /team/
   <div class="container">
     <div class="row">
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <img class="activator" src="/media/tatyana.jpg">
@@ -36,7 +36,7 @@ permalink: /team/
       </div>
       <!-- team member card -->
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <img class="activator" src="/media/dennis.jpg">
@@ -53,7 +53,7 @@ permalink: /team/
       </div>
       <!-- team member card -->
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <img class="activator" src="/media/leyla.jpg">
@@ -71,7 +71,7 @@ permalink: /team/
       </div>
       <!-- team member card -->
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <i class="activator placeholder-img secondary-bg primary-color large material-icons">face</i>
@@ -85,9 +85,11 @@ permalink: /team/
           </div>
         </div>
       </div>
+    </div>
+    <div class="row">
       <!-- team member card -->
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <i class="activator placeholder-img primary-bg secondary-color large material-icons">face</i>
@@ -103,7 +105,7 @@ permalink: /team/
       </div>
       <!-- team member card -->
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <img class="activator" src="/media/jessicajordan.jpeg">
@@ -121,7 +123,7 @@ permalink: /team/
       </div>
       <!-- team member card -->
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <i class="activator placeholder-img secondary-bg primary-color large material-icons">face</i>
@@ -137,7 +139,7 @@ permalink: /team/
       </div>
       <!-- team member card -->
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <i class="activator placeholder-img primary-bg secondary-color large material-icons">face</i>
@@ -151,9 +153,11 @@ permalink: /team/
           </div>
         </div>
       </div>
+   </div>
+   <div class="row">
       <!-- team member card -->
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <i class="activator placeholder-img secondary-bg primary-color large material-icons">face</i>
@@ -169,7 +173,7 @@ permalink: /team/
       </div>
       <!-- team member card -->
       <!-- team member card -->
-      <div class="col s6 m3">
+      <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
             <i class="activator placeholder-img primary-bg secondary-color large material-icons">face</i>
