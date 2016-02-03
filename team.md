@@ -39,6 +39,24 @@ permalink: /team/
       <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/media/jessicajordan.jpeg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Jessica Jordan<i class="material-icons right">favorite</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Jessica Jordan<i class="material-icons right">close</i></span>
+            <p>Jessica is a web developer and organizer in the BioJS project and has been mentoring learners
+            in web technologies in several workshops and co-learning groups in the past. You can follow
+            her on twitter <a target="jessicajordan" href="https://www.twitter.com/jjordan_dev">@jjordan_dev</a></p>
+          </div>
+        </div>
+      </div>
+      <!-- team member card -->
+      <!-- team member card -->
+      <div class="col s12 m3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
             <img class="activator" src="/media/dennis.jpg">
           </div>
           <div class="card-content">
@@ -69,22 +87,6 @@ permalink: /team/
           </div>
         </div>
       </div>
-      <!-- team member card -->
-      <!-- team member card -->
-      <div class="col s12 m3">
-        <div class="card">
-          <div class="card-image waves-effect waves-block waves-light">
-            <i class="activator placeholder-img secondary-bg primary-color large material-icons">face</i>
-          </div>
-          <div class="card-content">
-            <span class="card-title activator grey-text text-darken-4">Christian Dallago<i class="material-icons right">favorite</i></span>
-          </div>
-          <div class="card-reveal">
-            <span class="card-title grey-text text-darken-4">Christian Dallago<i class="material-icons right">close</i></span>
-            <p>Christian is a student at Technical University Munich, Germany.</p>
-          </div>
-        </div>
-      </div>
     </div>
     <div class="row">
       <!-- team member card -->
@@ -105,19 +107,33 @@ permalink: /team/
       </div>
       <!-- team member card -->
       <!-- team member card -->
+        <div class="col s12 m3">
+          <div class="card">
+            <div class="card-image waves-effect waves-block waves-light">
+              <i class="activator placeholder-img secondary-bg primary-color large material-icons">face</i>
+            </div>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4">Christian Dallago<i class="material-icons right">favorite</i></span>
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Christian Dallago<i class="material-icons right">close</i></span>
+              <p>Christian is a student at Technical University Munich, Germany.</p>
+            </div>
+          </div>
+        </div>
+      <!-- team member card -->
+      <!-- team member card -->
       <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img class="activator" src="/media/jessicajordan.jpeg">
+            <i class="activator placeholder-img primary-bg secondary-color large material-icons">face</i>
           </div>
           <div class="card-content">
-            <span class="card-title activator grey-text text-darken-4">Jessica Jordan<i class="material-icons right">favorite</i></span>
+            <span class="card-title activator grey-text text-darken-4">Madhukar Shankar<i class="material-icons right">favorite</i></span>
           </div>
           <div class="card-reveal">
-            <span class="card-title grey-text text-darken-4">Jessica Jordan<i class="material-icons right">close</i></span>
-            <p>Jessica is a web developer and organizer in the BioJS project and has been mentoring learners
-            in web technologies in several workshops and co-learning groups in the past. You can follow
-            her on twitter <a target="jessicajordan" href="https://www.twitter.com/jjordan_dev">@jjordan_dev</a></p>
+            <span class="card-title grey-text text-darken-4">Madhukar Shankar<i class="material-icons right">close</i></span>
+            <p>Madhukar is a student at Technical University Munich, Germany.</p>
           </div>
         </div>
       </div>
@@ -134,22 +150,6 @@ permalink: /team/
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Dmitrii Nechaev<i class="material-icons right">close</i></span>
             <p>Dmitrii is a student at Technical University Munich, Germany.</p>
-          </div>
-        </div>
-      </div>
-      <!-- team member card -->
-      <!-- team member card -->
-      <div class="col s12 m3">
-        <div class="card">
-          <div class="card-image waves-effect waves-block waves-light">
-            <i class="activator placeholder-img primary-bg secondary-color large material-icons">face</i>
-          </div>
-          <div class="card-content">
-            <span class="card-title activator grey-text text-darken-4">Madhukar Shankar<i class="material-icons right">favorite</i></span>
-          </div>
-          <div class="card-reveal">
-            <span class="card-title grey-text text-darken-4">Madhukar Shankar<i class="material-icons right">close</i></span>
-            <p>Madhukar is a student at Technical University Munich, Germany.</p>
           </div>
         </div>
       </div>

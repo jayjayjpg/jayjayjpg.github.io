@@ -6,7 +6,7 @@ permalink: /schedule/
 <section class="blue lighten-3">
   <div class="container">
     <div class="row">
-      <div class="uppercase col s12 white-text">
+      <div class="RSVPcol s12 white-text">
           <h1>Event Schedule 2016</h1>
       </div>
     </div>
@@ -29,22 +29,22 @@ permalink: /schedule/
         <h2>Training Dates</h2>
           <div class="row">
             <div class="col s12 m6">
-              Wednesday, February 24th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
+              Wednesday, February 24th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
             </div>
           </div>
           <div class="row">
             <div class="col s12 m6">
-              Thursday, February 25th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
+              Thursday, February 25th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
             </div>
           </div>
           <div class="row">
             <div class="col s12 m6">
-              Friday, February 26th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
+              Friday, February 26th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
             </div>
           </div>
           <div class="row">
             <div class="col s12 m6">
-              Saturday, February 27th, 10:00 - 13:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RVSP</a>
+              Saturday, February 27th, 10:00 - 13:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
             </div>
           </div>
         </ul>
