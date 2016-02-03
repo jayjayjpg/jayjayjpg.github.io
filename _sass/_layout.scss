@@ -186,6 +186,20 @@ footer {
   }
   
 }
+.block {
+  display: block;
+}
+.circle-frame {
+  margin: 0.5em auto;
+  width: 4em;
+  height: 4em;
+  border-radius: 50%;
+  overflow: hidden;
+  display: block;
+  img {
+    width: 100%;
+  }
+}
 
 /* Eye candy */
 @media #{$medium-and-up} {
@@ -262,4 +276,11 @@ footer {
 
 .logo {
   max-height: 100px;
+}
+.contact {
+  .circle {
+    width: 4em;
+    height: auto;
+    margin: 0.5em auto;
+  }
 }
