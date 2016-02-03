@@ -68,7 +68,7 @@ permalink: /schedule/
           <div class="card blue lighten-3">
             <div class="card-image">
               <img src="/media/contact-us.jpg"/>
-              <span class="card-title primary-color">Got any questions? Contact us</span>
+              <span class="card-title primary-color">Any questions?</span>
             </div>
             <div class="card-content">
               <p class="white-text">We're happy to help you out if you should have any questions regarding the workshop. 

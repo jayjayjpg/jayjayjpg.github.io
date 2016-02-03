@@ -16,7 +16,7 @@ permalink: /team/
   </div>
 </section>
 <section class="blue lighten-3">
-  <div class="container">
+  <div class="container team">
     <div class="row">
       <!-- team member card -->
       <div class="col s12 m3">

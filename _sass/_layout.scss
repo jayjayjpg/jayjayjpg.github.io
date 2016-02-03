@@ -52,7 +52,7 @@ footer {
   .card-action {
     a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
       color: $tertiary-color;
- 
+
       &:hover {
         color: $primary-color;
       }
@@ -64,12 +64,12 @@ footer {
       text-shadow: 2px 2px 3px $secondary-color;
     }
   }
-  .card-image {
-    max-height: 200px;
-  }
-  .card-content {
-    min-height: 140px;
-  }
+  //.card-image {
+  //  max-height: 200px;
+  //}
+  //.card-content {
+  //  min-height: 140px;
+  //}
   .placeholder-img {
     padding: 25% 0;
     text-align: center;
