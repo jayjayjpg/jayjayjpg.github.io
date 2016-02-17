@@ -6,7 +6,7 @@ permalink: /schedule/
 <section class="blue lighten-3">
   <div class="container">
     <div class="row">
-      <div class="RSVPcol s12 white-text">
+      <div class="RSVP col s12 white-text">
           <h1>Event Schedule 2016</h1>
       </div>
     </div>
@@ -16,7 +16,7 @@ permalink: /schedule/
 	<div class="container">
 		<div class="row">
 			<div class="col s12">
-				<p class="subheader">Join us on any of four training days to explore
+				<p class="subheader">Join us on any of two training days to explore
 				visualization on the web</p>
 			</div>
 		</div>
@@ -29,22 +29,12 @@ permalink: /schedule/
         <h2>Training Dates</h2>
           <div class="row">
             <div class="col s12 m6">
-              Wednesday, February 24th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
+              Wednesday, March 2nd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
             </div>
           </div>
           <div class="row">
             <div class="col s12 m6">
-              Thursday, February 25th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col s12 m6">
-              Friday, February 26th, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col s12 m6">
-              Saturday, February 27th, 10:00 - 13:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
+              Thursday, March 3rd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
             </div>
           </div>
         </ul>
@@ -59,6 +49,7 @@ permalink: /schedule/
           <li class="mt-1">Hello and Welcome</li>
           <li class="mt-1">Introduction to HTML &amp; CSS</li>
           <li class="mt-1">Introduction to Javascript and how to get started coding on your laptop</li>
+          <li class="mt-1">Talk about working as a woman in IT by Google Software Engineer Agnieszka Szczesniak</li>
           <li class="mt-1">Getting familiar with <a href="http://d3js.org/" target="dthree">D3.js</a> - a beautful tool to visualize data</li>
           <li class="mt-1">Data visualization in Action with <a href="http://www.biojs.net" target="biojs">BioJS</a></li>
           <li class="mt-1">Pizza &amp; drinks</li>
