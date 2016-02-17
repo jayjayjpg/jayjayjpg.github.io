@@ -29,12 +29,12 @@ permalink: /schedule/
         <h2>Training Dates</h2>
           <div class="row">
             <div class="col s12 m6">
-              Wednesday, March 2nd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
+              Wednesday, March 2nd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="http://www.meetup.com/stylight/events/228921349/" target="_blank">Free RSVP</a>
             </div>
           </div>
           <div class="row">
             <div class="col s12 m6">
-              Thursday, March 3rd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="#" target="_blank">Free RSVP</a>
+              Thursday, March 3rd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="http://www.meetup.com/stylight/events/228921612/" target="_blank">Free RSVP</a>
             </div>
           </div>
         </ul>
