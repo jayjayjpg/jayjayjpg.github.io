@@ -18,6 +18,7 @@ permalink: /schedule/
 			<div class="col s12">
 				<p class="subheader">Join us on any of two training days to explore
 				visualization on the web</p>
+				<h5 class="mt-2"><strong class="red-text">Do not forget to bring your own laptop to code away together with us!</strong></h5>
 			</div>
 		</div>
 	</div>
