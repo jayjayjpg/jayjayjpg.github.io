@@ -15,22 +15,27 @@ permalink: /team/
     </div>
   </div>
 </section>
-<section class="blue lighten-3">
-  <div class="container team">
+<section class="tertiary-bg team">
+  <div class="container">
+  <div class="row">
+      <div class="col s12">
+        <h2 class=" white-text">Our Rockstar Speakers</h2>
+      </div>
+    </div>
     <div class="row">
       <!-- team member card -->
       <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img class="activator" src="/media/tatyana.jpg">
+            <img class="activator" src="/media/agnieszka.jpg">
           </div>
           <div class="card-content">
-            <span class="card-title activator grey-text text-darken-4">Tatyana Goldberg<i class="material-icons right">favorite</i></span>
+            <span class="card-title activator grey-text text-darken-4">Agnieszka Szczesniak<i class="material-icons right">favorite</i></span>
           </div>
           <div class="card-reveal">
-            <span class="card-title grey-text text-darken-4">Tatyana Goldberg<i class="material-icons right">close</i></span>
-            <p>Tatyana is both an organizer and developer in the BioJS project as well as a PhD student
-            at Rostlab, Munich, Germany.</p>
+            <span class="card-title grey-text text-darken-4">Agnieszka Szczesniak<i class="material-icons right">close</i></span>
+            <p>Agnieszka is a Software Engineer at Google and will tell you about her experience as a woman working in tech
+            </p>
           </div>
         </div>
       </div>
@@ -39,16 +44,14 @@ permalink: /team/
       <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img class="activator" src="/media/jessicajordan.jpeg">
+            <img class="activator" src="/media/ekaterina.jpg">
           </div>
           <div class="card-content">
-            <span class="card-title activator grey-text text-darken-4">Jessica Jordan<i class="material-icons right">favorite</i></span>
+            <span class="card-title activator grey-text text-darken-4">Ekaterina Prigara<i class="material-icons right">favorite</i></span>
           </div>
           <div class="card-reveal">
-            <span class="card-title grey-text text-darken-4">Jessica Jordan<i class="material-icons right">close</i></span>
-            <p>Jessica is a web developer and organizer in the BioJS project and has been mentoring learners
-            in web technologies in several workshops and co-learning groups in the past. You can follow
-            her on twitter <a target="jessicajordan" href="https://www.twitter.com/jjordan_dev">@jjordan_dev</a></p>
+            <span class="card-title grey-text text-darken-4">Ekaterina Prigara<i class="material-icons right">close</i></span>
+            <p>Ekaterina is a web developer at Jetbrains</p>
           </div>
         </div>
       </div>
@@ -57,15 +60,14 @@ permalink: /team/
       <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img class="activator" src="/media/dennis.jpg">
+            <i class="activator placeholder-img secondary-bg primary-color large material-icons">face</i>
           </div>
           <div class="card-content">
-            <span class="card-title activator grey-text text-darken-4">Dennis Schwartz<i class="material-icons right">favorite</i></span>
+            <span class="card-title activator grey-text text-darken-4">Trustyou<i class="material-icons right">favorite</i></span>
           </div>
           <div class="card-reveal">
-            <span class="card-title grey-text text-darken-4">Dennis Schwartz<i class="material-icons right">close</i></span>
-            <p>Dennis is both an organizer and web developer in the BioJS project and is currently
-            writing his master thesis about the visualization of expression data in biological organisms.</p>
+            <span class="card-title grey-text text-darken-4">Speaker tba<i class="material-icons right">close</i></span>
+            <p>-</p>
           </div>
         </div>
       </div>
@@ -74,18 +76,43 @@ permalink: /team/
       <div class="col s12 m3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img class="activator" src="/media/leyla.jpg">
+            <i class="activator placeholder-img primary-bg secondary-color large material-icons">face</i>
           </div>
           <div class="card-content">
-            <span class="card-title activator grey-text text-darken-4">Leyla Garcia Castro<i class="material-icons right">favorite</i></span>
+            <span class="card-title activator grey-text text-darken-4">Bayer<i class="material-icons right">favorite</i></span>
           </div>
           <div class="card-reveal">
-            <span class="card-title grey-text text-darken-4">Leyla Garcia Castro<i class="material-icons right">close</i></span>
-            <p>Leyla Garcia is a software engineer at EMBL-EBI and organizes events around the BioJS project. She 
-            has been mentoring a multitude of students in programming
-            throughout her academic career.</p>
+            <span class="card-title grey-text text-darken-4">Speaker tba<i class="material-icons right">close</i></span>
+            <p>-</p>
           </div>
         </div>
+      </div>
+    </div>
+<div class="row">
+      <!-- team member card -->
+      <div class="col s12 m3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/media/burkhard.jpg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Prof. Burkhard Rost<i class="material-icons right">favorite</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Prof. Burkhard Rost<i class="material-icons right">close</i></span>
+            <p>Burkhard is a Professor at the Technical University in Munich and team leader of the Rostlab group</p>
+          </div>
+        </div>
+      </div>
+      <!-- team member card -->
+    </div>
+  </div>
+</section>
+<section class="blue lighten-3">
+  <div class="container team">
+    <div class="row">
+      <div class="col s12">
+        <h2 class="white-text">Our Tutors</h2>
       </div>
     </div>
     <div class="row">
@@ -167,7 +194,9 @@ permalink: /team/
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Santanu Mohanta<i class="material-icons right">close</i></span>
-            <p>Santanu is a student at Technical University Munich, Germany.</p>
+            <p>
+            <strong>Master student in Informatics</strong><br/>
+            Hi! I am from India. I am in my first semester of Master studies in Informatics at TUM. In my free time, I love to listen to music & travel.</p>
           </div>
         </div>
       </div>
@@ -188,6 +217,87 @@ permalink: /team/
         </div>
       </div>
       <!-- team member card -->
+    </div>
+  </div>
+</section>
+<section class="team">
+  <div class="container">
+  <div class="row">
+      <div class="col s12">
+        <h2>Our Organizers</h2>
+      </div>
+    </div>
+    <div class="row">
+      <!-- team member card -->
+      <div class="col s12 m3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/media/tatyana.jpg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Tatyana Goldberg<i class="material-icons right">favorite</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Tatyana Goldberg<i class="material-icons right">close</i></span>
+            <p><strong>PhD student in Bioinformatics</strong><br/>
+              Hi! In my work I use various computational methods to answer exciting questions in biology. 
+              I also teach at TUM, which I greatly enjoy. In my free time, I love to travel, meet new people and swim.</p>
+          </div>
+        </div>
+      </div>
+      <!-- team member card -->
+      <!-- team member card -->
+      <div class="col s12 m3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/media/jessicajordan.jpeg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Jessica Jordan<i class="material-icons right">favorite</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Jessica Jordan<i class="material-icons right">close</i></span>
+            <p><strong>Web Developer and Biologist</strong><br />
+            Hey there, I'm a biologist turned web developer who found their love for coding just a couple of years ago and never looked back.
+            I enjoy to  draw comics and build shiny things on the web</p>
+          </div>
+        </div>
+      </div>
+      <!-- team member card -->
+      <!-- team member card -->
+      <div class="col s12 m3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/media/dennis.jpg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Dennis Schwartz<i class="material-icons right">favorite</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Dennis Schwartz<i class="material-icons right">close</i></span>
+            <p>Dennis is both an organizer and web developer in the BioJS project and is currently
+            writing his master thesis about the visualization of expression data in biological organisms.</p>
+          </div>
+        </div>
+      </div>
+      <!-- team member card -->
+      <!-- team member card -->
+      <div class="col s12 m3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/media/leyla.jpg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Leyla Garcia Castro<i class="material-icons right">favorite</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Leyla Garcia Castro<i class="material-icons right">close</i></span>
+            <p>Leyla Garcia is a software engineer at EMBL-EBI and organizes events around the BioJS project. She 
+            has been mentoring a multitude of students in programming
+            throughout her academic career.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
