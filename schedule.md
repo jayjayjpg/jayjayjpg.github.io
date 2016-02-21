@@ -18,7 +18,7 @@ permalink: /schedule/
 			<div class="col s12">
 				<p class="subheader">Join us on any of two training days to explore
 				visualization on the web</p>
-				<h5 class="mt-2"><strong class="red-text">Do not forget to bring your own laptop to code away together with us!</strong></h5>
+				<h5><strong class="red-text">Do not forget to bring your own laptop to code away together with us!</strong></h5>
 			</div>
 		</div>
 	</div>
@@ -29,13 +29,13 @@ permalink: /schedule/
       <div class="col s12">
         <h2>Training Dates</h2>
           <div class="row">
-            <div class="col s12 m6">
-              Wednesday, March 2nd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="http://www.meetup.com/stylight/events/228921349/" target="_blank">Free RSVP</a>
+            <div class="col s12 m9">
+              Wednesday, March 2nd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="http://www.meetup.com/stylight/events/228921349/" target="_blank">RSVP for March 2nd</a>
             </div>
           </div>
           <div class="row">
-            <div class="col s12 m6">
-              Thursday, March 3rd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="http://www.meetup.com/stylight/events/228921612/" target="_blank">Free RSVP</a>
+            <div class="col s12 m9">
+              Thursday, March 3rd, 17:00 - 20:00 <a class="btn tertiary-bg uppercase right" href="http://www.meetup.com/stylight/events/228921612/" target="_blank">RSVP for March 3rd</a>
             </div>
           </div>
         </ul>
@@ -45,12 +45,13 @@ permalink: /schedule/
     <section class="padded">
     <div class="row">
       <div class="col s12 m8">
-        <h2>Training Schedule</h2>
+        <h2>Talk and Training Schedule</h2>
         <ul>
-          <li class="mt-1">Hello and Welcome</li>
+          <li class="mt-1">Hello and Welcome by Prof. Burkhard Rost</li>
+          <li class="mt-1">Talk about working as a woman in IT by Google Software Engineer Agnieszka Szczesniak</li>
+          <li class="mt-1">Discussion Panel with Jetbrains Web Developer Ekaterina Prigara</li>
           <li class="mt-1">Introduction to HTML &amp; CSS</li>
           <li class="mt-1">Introduction to Javascript and how to get started coding on your laptop</li>
-          <li class="mt-1">Talk about working as a woman in IT by Google Software Engineer Agnieszka Szczesniak</li>
           <li class="mt-1">Getting familiar with <a href="http://d3js.org/" target="dthree">D3.js</a> - a beautful tool to visualize data</li>
           <li class="mt-1">Data visualization in Action with <a href="http://www.biojs.net" target="biojs">BioJS</a></li>
           <li class="mt-1">Pizza &amp; drinks</li>
@@ -59,7 +60,7 @@ permalink: /schedule/
       <div class="col s12 m4">
           <div class="card blue lighten-3">
             <div class="card-image">
-              <img src="/media/contact-us.jpg"/>
+              <img src="/media/contact-us.jpg?v=1.1"/>
               <span class="card-title primary-color">Any questions?</span>
             </div>
             <div class="card-content">
