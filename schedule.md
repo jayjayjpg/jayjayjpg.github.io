@@ -49,17 +49,17 @@ permalink: /schedule/
         <ul>
           <li class="tertiary-color mt-1">Talks - 17:00 - 18:00</li>
           <li class="divider"></li>
-          <li class="mt-1">15' Hello and Welcome by Prof. Burkhard Rost</li>
-          <li class="mt-1">15' “Life at Google” - Talk by Google Software Engineer Agnieszka Szczesniak</li>
-          <li class="mt-1">30' Panel Discussion "A Woman in IT"  with Agnieszka Szczesniak (Google), Ekaterina Prigara (JetBrains), TBA (TrustYou) and TBA (Bayer)</li>
+          <li class="mt-1">Hello and Welcome by Prof. Burkhard Rost (TUM)</li>
+          <li class="mt-1">“Life at Google” - Agnieszka Szczesniak (Google)</li>
+          <li class="mt-1">Panel Discussion "A Woman in IT"; with Agnieszka Szczesniak (Google), Ekaterina Prigara (JetBrains), TBA (TrustYou) and TBA (Bayer)</li>
           <li class="tertiary-color mt-1">Hands-on Exercises 18:00 - 20:00</li>
           <li class="divider"></li>
-          <li class="mt-1">15' Introduction to HTML &amp; CSS</li>
-          <li class="mt-1">30' We code together in Javascript</li>
-          <li class="mt-1">15' Buffer Break</li>
-          <li class="mt-1">30' Real-Time Data Visualization with  <a href="http://d3js.org/" target="dthree">D3.js</a></li>
-          <li class="mt-1">15' <a href="http://www.biojs.net" target="biojs">BioJS</a> in Action - Live Demo of Data Visualization in Biology</li>
-          <li class="mt-1">15' Wrap-up</li>
+          <li class="mt-1">Introduction to HTML &amp; CSS</li>
+          <li class="mt-1">We code together in JavaScript</li>
+          <li class="mt-1">Buffer Break</li>
+          <li class="mt-1">Real-Time Data Visualization with  <a href="http://d3js.org/" target="dthree">D3.js</a></li>
+          <li class="mt-1"><a href="http://www.biojs.net" target="biojs">BioJS</a> in Action - Live Demo of Data Visualization in Biology</li>
+          <li class="mt-1">Wrap-up</li>
           <li></li>
           <li class="mt-1 tertiary-color">Pizza &amp; drinks - open end</li>
           <li class="divider"></li>
