@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 permalink: /schedule/
 ---
-<section class="blue lighten-3">
+<section class="secondary-bg">
   <div class="container">
     <div class="row">
       <div class="RSVP col s12 white-text">
@@ -12,7 +12,7 @@ permalink: /schedule/
     </div>
   </div>
 </section>
-<section class="blue lighten-3 white-text">
+<section class="secondary-bg white-text">
 	<div class="container">
 		<div class="row">
 			<div class="col s12">

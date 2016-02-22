@@ -3,7 +3,7 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-<section class="blue lighten-3 primary-color">
+<section class="secondary-bg primary-color">
   <div class="container">
     <!--   Icon Section   -->
     <div class="row">
