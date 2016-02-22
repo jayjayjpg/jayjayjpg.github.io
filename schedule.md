@@ -47,14 +47,23 @@ permalink: /schedule/
       <div class="col s12 m8">
         <h2>Talk and Training Schedule</h2>
         <ul>
-          <li class="mt-1">Hello and Welcome by Prof. Burkhard Rost</li>
-          <li class="mt-1">Talk about working as a woman in IT by Google Software Engineer Agnieszka Szczesniak</li>
-          <li class="mt-1">Discussion Panel with Jetbrains Web Developer Ekaterina Prigara</li>
-          <li class="mt-1">Introduction to HTML &amp; CSS</li>
-          <li class="mt-1">Introduction to Javascript and how to get started coding on your laptop</li>
-          <li class="mt-1">Getting familiar with <a href="http://d3js.org/" target="dthree">D3.js</a> - a beautful tool to visualize data</li>
-          <li class="mt-1">Data visualization in Action with <a href="http://www.biojs.net" target="biojs">BioJS</a></li>
-          <li class="mt-1">Pizza &amp; drinks</li>
+          <li class="tertiary-color mt-1">Talks - 17:00 - 18:00</li>
+          <li class="divider"></li>
+          <li class="mt-1">15' Hello and Welcome by Prof. Burkhard Rost</li>
+          <li class="mt-1">15' “Life at Google” - Talk by Google Software Engineer Agnieszka Szczesniak</li>
+          <li class="mt-1">30' Panel Discussion "A Woman in IT"  with Agnieszka Szczesniak (Google), Ekaterina Prigara (JetBrains), TBA (TrustYou) and TBA (Bayer)</li>
+          <li class="tertiary-color mt-1">Hands-on Exercises 18:00 - 20:00</li>
+          <li class="divider"></li>
+          <li class="mt-1">15' Introduction to HTML &amp; CSS</li>
+          <li class="mt-1">30' We code together in Javascript</li>
+          <li class="mt-1">15' Buffer Break</li>
+          <li class="mt-1">30' Real-Time Data Visualization with  <a href="http://d3js.org/" target="dthree">D3.js</a></li>
+          <li class="mt-1">15' <a href="http://www.biojs.net" target="biojs">BioJS</a> in Action - Live Demo of Data Visualization in Biology</li>
+          <li class="mt-1">15' Wrap-up</li>
+          <li></li>
+          <li class="mt-1 tertiary-color">Pizza &amp; drinks - open end</li>
+          <li class="divider"></li>
+          <li class="mt-1">Talk to the mentors, get to know other learners and share free pizza and drinks</li>
         </ul>
       </div>
       <div class="col s12 m4">
