@@ -21,8 +21,10 @@ main {
 
 footer {
   margin-top: 0 !important;
-  padding-top: 15px !important;
-  padding-bottom: 15px !important;
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  background-color: $secondary-color !important;
+  border-top: 1px solid $grey-color;
 }
 
 .footer-button {
@@ -32,8 +34,8 @@ footer {
 }
 
 .footer-copyright {
-  color: inherit !important;
-  background-color: inherit !important;
+  //color: inherit !important;
+  background-color: $secondary-color !important;
 }
 
 
@@ -110,7 +112,7 @@ footer {
 
 .parallax-container {
   min-height: 380px;
-  line-height: 0;
+  //line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
 }

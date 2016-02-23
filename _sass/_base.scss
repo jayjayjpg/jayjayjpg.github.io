@@ -44,6 +44,12 @@ h2 {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 }
 
+.layer2 {
+  background-color: $secondary-color-layer;
+  /* IE 8 OPACITY */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+}
+
 /* Colors */
 .primary-color {
   color: $primary-color;
@@ -68,3 +74,4 @@ h2 {
 .full-height {
   height: 92vh !important;
 }
+
