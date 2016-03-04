@@ -295,6 +295,15 @@ footer {
     margin: 0.5em auto;
   }
 }
+#mc_embed_signup{
+  background-color: transparent; 
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+  width:100%;
+}
+#mc_embed_signup .button {
+  background-color: $tertiary-color !important;
+}
 
 .pb-0 {
   padding-bottom: 0;
