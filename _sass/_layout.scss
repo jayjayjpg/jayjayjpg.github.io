@@ -317,3 +317,28 @@ footer {
 .mt-0 {
   margin-top: 0;
 }
+
+.materialboxed {
+  margin-left: auto;
+  margin-right: auto;
+  //max-width: 100%;
+}
+
+.border-image {
+  img {
+    border: solid 1px $secondary-color;
+    border-radius: 1px;
+  }
+}
+//
+//.max-height {
+//  max-height: 300px;
+//  img {
+//    max-height: 100%;
+//  }
+//}
+//.test {
+//   {
+//    max-height: 400px;
+//  }
+//}
