@@ -1,22 +1,22 @@
 /* Materialize Extensions */
 /* Sticky Footer  for FF, Chrome, Safari */
 body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 
 main {
-    flex: 1 0 auto;
+  flex: 1 0 auto;
 }
 
 /* IE10+ fix to circumvent poorly supported flexbox features */
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-    body, main {
-            display: block;
-            min-height: auto;
-    }
+  body, main {
+    display: block;
+    min-height: auto;
+  }
 }
 
 footer {
@@ -120,10 +120,10 @@ footer {
   height: auto;
   color: rgba(255,255,255,.9);
 }
-  .parallax-container .section {
-    position: relative;
-    width: 100%;
-  }
+.parallax-container .section {
+  position: relative;
+  width: 100%;
+}
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
@@ -157,17 +157,17 @@ footer {
 }
 /* Layout Helper */
 @for $i from 0 through 12 {
-  .mt-#{$i} { 
-    margin-top: $i * 1.5em; 
+  .mt-#{$i} {
+    margin-top: $i * 1.5em;
   }
-  .mb-#{$i} { 
-    margin-bottom: $i * 1.5em; 
+  .mb-#{$i} {
+    margin-bottom: $i * 1.5em;
   }
-  .pt-#{$i} { 
-    padding-top: $i * 1.5em; 
+  .pt-#{$i} {
+    padding-top: $i * 1.5em;
   }
-  .pb-#{$i} { 
-    padding-bottom: $i * 1.5em; 
+  .pb-#{$i} {
+    padding-bottom: $i * 1.5em;
   }
 }
 .padded {
@@ -195,7 +195,7 @@ footer {
   &:hover {
     color: $tertiary-color !important;
   }
-  
+
 }
 .block {
   display: block;
@@ -296,9 +296,9 @@ footer {
   }
 }
 #mc_embed_signup{
-  background-color: transparent; 
-  clear:left; 
-  font:14px Helvetica,Arial,sans-serif; 
+  background-color: transparent;
+  clear:left;
+  font:14px Helvetica,Arial,sans-serif;
   width:100%;
 }
 #mc_embed_signup .button {
@@ -348,4 +348,22 @@ footer {
   .dbutton {
     margin: 20px;
   }
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
