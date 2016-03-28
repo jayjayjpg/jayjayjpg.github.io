@@ -3,7 +3,8 @@
 
     $('.button-collapse').sideNav();
     $('.parallax').parallax();
-    var titles = ['Anita Borg Celebration Munich 2016','Schedule','Team','Venue','Contact'];
+    var titles = ['Anita Borg Celebration Munich 2016','Schedule','Team','Pictures',
+      'Video','Materials','Venue','Contact'];
     var currentTitle = $('title').text();
     for (var i = 1; i < titles.length + 1; i++){
       console.log(titles[i]);
