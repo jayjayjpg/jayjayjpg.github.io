@@ -1,0 +1,54 @@
+footer, header, main {
+  padding: 1em 2em;
+}
+
+h1, h2 {
+  letter-spacing: .2em;
+  position: relative;
+}
+
+h3 {
+  letter-spacing: .1em;
+}
+
+p, li {
+  letter-spacing: 0em;
+}
+
+.pure-g h1, .pure-g h2, .pure-g h3, .nes-text {
+  font-family: "Press Start 2P", sans-serif;
+}
+
+.mt-1, .mt-1.nes-container {
+  margin-top: .75em;
+}
+
+.nes-container {
+  position: relative;
+}
+
+.nes-container .nes-avatar {
+  position: absolute;
+  right: 2em;
+  bottom: 1em;
+  display: block;
+}
+
+h2  .nes-icon {
+  position: relative;
+  display: inline-block;
+  right: -1em;
+  top: .3em;
+}
+
+.portfolio hr {
+  margin-bottom: 4em;
+}
+
+.portfolio progress {
+  margin-bottom: 1em;
+}
+
+.portfolio {
+  background-color: #e7e7e7;
+}
