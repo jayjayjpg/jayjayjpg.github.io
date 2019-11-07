@@ -15,7 +15,7 @@ p, li {
   letter-spacing: 0em;
 }
 
-.pure-g h1, .pure-g h2, .pure-g h3, .nes-text {
+.portfolio h1, .portfolio h2, .portfolio h3,  .portfolio h4, .nes-text {
   font-family: "Press Start 2P", sans-serif;
 }
 
@@ -23,8 +23,9 @@ p, li {
   margin-top: .75em;
 }
 
-.nes-container {
+.portfolio .nes-container {
   position: relative;
+  padding-bottom: 4em;
 }
 
 .nes-container .nes-avatar {
@@ -34,11 +35,19 @@ p, li {
   display: block;
 }
 
+.nes-container.is-dark li,
+.nes-container.is-dark h4,
+.nes-container.is-dark h3,
+.nes-container.is-dark p,
+.nes-container.is-dark i {
+  color: #e9e9e9;
+}
+
 h2  .nes-icon {
   position: relative;
   display: inline-block;
   right: -1em;
-  top: .3em;
+  top: 0;
 }
 
 .portfolio hr {
@@ -51,4 +60,8 @@ h2  .nes-icon {
 
 .portfolio {
   background-color: #e7e7e7;
+}
+
+.portfolio .row .col-6 iframe + iframe {
+  margin-top: 1em;
 }

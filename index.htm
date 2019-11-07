@@ -3,20 +3,21 @@
 	<head>
 		<title>Jessica Jordan - Senior Frontend Engineer</title>
 		<meta name="description" content="Jessica Jordan Profile Website">
-		<link href="./styles/pure.css" rel="stylesheet" />
+		<link href="./styles/simple-grid.min.css" rel="stylesheet" />
 		<link href="./styles/nes.css" rel="stylesheet" />
 		<link href="./styles/custom.css" rel="stylesheet" />
 		<link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
+		<link rel="icon" href="./images/favicon.png">
 	</head>
 	<body class="portfolio">
 		<header class="pure-g">
 		  <h1>Jessica Jordan</h1>
 		</header>
 		<main>
-			<section class="pure-g">
+			<section class="row">
         <h2 class="pure-u-1">Open-Source <i class="nes-icon heart"></i></h2>
 				<progress class="nes-progress" value="15" max="100"></progress>
-        <article class="pure-u-1 nes-container with-title is-rounded mt-1">
+        <article class="nes-container with-title is-rounded mt-1">
 					<h3 class="title">Ember Learning Core Team <span>@EmberJS<i></i></span><br> - <span class="nes-text is-primary">since Januray 2018</span></h3>
 					<p>Documentation and newsletters.</p>
 					<img class="nes-avatar is-large" alt="Hamster icon" src="./images/hamster.png">
@@ -36,12 +37,23 @@
 			<section class="pure-g">
 				<h2 class="pure-u-1">Talks <i class="nes-icon star"></i></h2>
 				<progress class="nes-progress is-warning" value="30" max="100"></progress>
-				<article class="pure-u-1 nes-container is-rounded mt-1">
+				<article class="nes-container is-rounded mt-1">
 					<h3 class="title">2019</h3>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/C_abEQENdy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/tXOn_8ivUns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/BPmuR4mAQaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/3-dg2Vulg7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<div class="row">
+						<div class="col-6">
+						  <iframe width="100%" height="315" src="https://www.youtube.com/embed/tpjIwmg8meY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						  <iframe width="100%" height="315" src="https://www.youtube.com/embed/tXOn_8ivUns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					  </div>
+						<div class="col-6">
+						  <iframe width="100%" height="315" src="https://www.youtube.com/embed/3-dg2Vulg7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						  <iframe width="100%" height="315" src="https://www.youtube.com/embed/BPmuR4mAQaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					  </div>
+					</div>
+			    <div class="row">
+						<div class="col-6">
+					    <iframe width="100%" height="315" src="https://www.youtube.com/embed/C_abEQENdy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					  </div>
+					</div>
 					<h4>Unrecorded talks</h4>
 					<ul class="nes-list is-disc">
             <li>"Crafting Web Comics with EmberJS". c't web dev 2019. Cologne.</li>
@@ -49,29 +61,53 @@
 						<li>"That's what you get for letting your developers work on OSS". HiveConf 2019. Berlin</li>
 					</ul>
 				</article>
-				<article class="pure-u-1 nes-container is-rounded is-dark mt-1">
+				<article class="nes-container is-rounded is-dark mt-1">
 					<h3 class="title">2018</h3>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/3cicU6IxclY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/h3YtViXranw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/5eXe5t_KO2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/Ezb-sovFD5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/PjUd67Saq1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/cljehgyxOSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<div class="row">
+						<div class="col-6">
+					    <iframe width="100%" height="315" src="https://www.youtube.com/embed/3cicU6IxclY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					    <iframe width="100%" height="315" src="https://www.youtube.com/embed/h3YtViXranw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+						<div class="col-6">
+		          <iframe width="100%" height="315" src="https://www.youtube.com/embed/5eXe5t_KO2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ezb-sovFD5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					  </div>
+					</div>
+					<div class="row">
+						<div class="col-6">
+							<iframe width="100%" height="315" src="https://www.youtube.com/embed/PjUd67Saq1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+						<div class="col-6">
+							<iframe width="100%" height="315" src="https://www.youtube.com/embed/cljehgyxOSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+			   	</div>
 					<h4>Unrecorded talks</h4>
 					<ul class="nes-list is-disc">
 						<li>"Animate the Web with EmberJS". <a href="https://bulgariawebsummit.com/" target="bulgwebsummit" rel=”noopener noreferrer”>Bulgaria Web Summit 2018</a>. Sofia.</li>
 						<li>"A Glimmer of Hope - Building Web Components with GlimmerJS". <a href="https://2018.afrotechfest.co.uk/" target="aftech" rel=”noopener noreferrer”>Afrotech Fest 2018</a>. London.</li>
 					</ul>
 				</article>
-				<article class="pure-u-1 nes-container is-rounded mt-1">
+				<article class="nes-container is-rounded mt-1">
 					<h3 class="title">2017</h3>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/wFJPIjRTIVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/OzFgDBJcWuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/n-z7En2O9mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/jaJ5cCCYrcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/E1EUG2UPZrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/ln9xBiqbA2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/D1yqIm86jqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<div class="row">
+						<div class="col-6">
+							<iframe width="100%" height="315" src="https://www.youtube.com/embed/wFJPIjRTIVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="100%" height="315" src="https://www.youtube.com/embed/OzFgDBJcWuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				    </div>
+						<div class="col-6">
+							<iframe width="100%" height="315" src="https://www.youtube.com/embed/n-z7En2O9mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="100%" height="315" src="https://www.youtube.com/embed/jaJ5cCCYrcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			     	</div>
+					</div>
+					<div class="row">
+						<div class="col-6">
+							<iframe width="100%" height="315" src="https://www.youtube.com/embed/E1EUG2UPZrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="100%" height="315" src="https://www.youtube.com/embed/ln9xBiqbA2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+						<div class="col-6">
+					    <iframe width="100%" height="315" src="https://www.youtube.com/embed/D1yqIm86jqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				    </div>
+					</div>
 					<h4>Unrecorded talks</h4>
 					<ul class="nes-list is-disc">
             <li>"Testing Against Time". Emberfest 2017. Amsterdam.</li>
@@ -121,14 +157,14 @@
 				</article>
 				<article class="mt-1">
          <h3>More projects</h3>
-				 <p>You can find more projects on my <a href="https://www.linkedin.com/in/jessicajordanfedev/"  target="twitter" rel=”noopener noreferrer”>CV on Linkedin</a>.</p>
+				 <p class="nes-text">You can find more projects on my <a class="nes-text" href="https://www.linkedin.com/in/jessicajordanfedev/"  target="twitter" rel=”noopener noreferrer”>CV on Linkedin</a>.</p>
 				</article>
 			</section>
 	  </main>
 		<hr />
 		<footer>
 			<progress class="nes-progress is-success" value="99" max="100"></progress>
-			<p>(C) Jessica Jordan, 2019. Join my other 7 followers on <a href="https://twitter.com/jjordan_dev" target="twitter" rel=”noopener noreferrer”>Twitter   <i class="nes-icon twitter"></i></a>. Send me offers for .NET developer roles on <a href="https://www.linkedin.com/in/jessicajordanfedev/"  target="twitter" rel=”noopener noreferrer”>Linkedin <i class="nes-icon linkedin"></i></a>.</p>
+			<p class="nes-text">(C) Jessica Jordan, 2019. Join my other 7 followers on <a class="nes-text" href="https://twitter.com/jjordan_dev" target="twitter" rel=”noopener noreferrer”>Twitter   <i class="nes-icon twitter"></i></a>. Send me offers for .NET developer roles on <a class="nes-text" href="https://www.linkedin.com/in/jessicajordanfedev/"  target="twitter" rel=”noopener noreferrer”>Linkedin <i class="nes-icon linkedin"></i></a>.</p>
 		</footer>
 	</body>
 </html>
